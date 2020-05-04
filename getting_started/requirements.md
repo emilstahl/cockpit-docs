@@ -33,8 +33,7 @@ Cockpit was succesfully tested on Apache. Nginx, or whatever web server you choo
 ##### List of webhosts that are known to support Cockpit
 
 * [A Small Orange](http://www.asmallorange.com/)
-* [UnoEuro](http://www.unoeuro.com/)
-* [Meebox](http://www.meebox.net/)
+* [Simply.com](https://www.simply.com/)
 * [One.com](http://www.one.com)
 * [InMotion Hosting](http://www.inmotionhosting.com/)
 * [Arvixe](http://www.arvixe.com/)
